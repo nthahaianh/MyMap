@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">MyMap</string>
     <string name="title_activity_maps">Map</string>
+    <string name="maps_api_key">AIzaSyAcO11Hkin1sk44t--E5-IdC3WMQq783Js</string>
+    <string name="map_goal">Address</string>
+    <string name="map_submit">Submit</string>
+    <string name="main_notification">Check internet connection and permission</string>
+    <string name="main_reload">Reload</string>
 </resources>
